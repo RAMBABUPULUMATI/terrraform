@@ -3,4 +3,5 @@ first line
 third line
 =======
 second line
->>>>>>> 285bdf06a1e5cf47a6f58330887b35855e3ec253
+>>>>>>> 285bdf06a1e5cf47a6f58330887b35855e3ec25
+fifth nline
