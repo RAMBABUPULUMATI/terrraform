@@ -1,12 +1,6 @@
 first line
-<<<<<<< HEAD
-third line
-=======
+third linE
 second line
-<<<<<<< HEAD
->>>>>>> 285bdf06a1e5cf47a6f58330887b35855e3ec25
 fifth nline
-=======
->>>>>>> 285bdf06a1e5cf47a6f58330887b35855e3ec253
 fourth line
->>>>>>> 800f013ec837c97fa8c120c7ac782a60720384cd
+
